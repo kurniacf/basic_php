@@ -1,2 +1,2 @@
 # basic_php
-This is an exercise for deep learning php
+This is an exercise for learning php
